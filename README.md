@@ -26,7 +26,7 @@ https://www.americashealthrankings.org/explore/measures/teen_suicide
 
 1. Hawaii the best place among all the states of the USA. However, the costing of healthcare expenses at Hawaii is extremely high. So, if you don't belong from High Income Society or Mid-High Income Society, you may think acouple of times to settle down in Hawaii. Still, Good Healthcare system with good Air Quality Index make hawai the best destination to spend your vacations. 
 
-2. North Carolina, South Carolina, Tennessee, Arkansas, Nevada, Arizona, Maryland, Texas, Massachusetts, South Dakota, West Virginia, Texas, Arizona have the best healthcare outcome factors with good air qualities. Besides, the cost of healthcare is comparetively lower than many states in USA. So, these states are the perfect place to settle down for the middle or lower middle class family. People who come from Developing Country like Bangladesh, Pakistan, India, Nepal & others are always mostly prefer these states for higher studies, job or settle down.
+2. North Carolina, South Carolina, Tennessee, Arkansas, Delaware, Nevada, Arizona, Maryland, Texas, Massachusetts, South Dakota, West Virginia, Texas, Arizona have the best healthcare outcome factors with good air qualities. Besides, the cost of healthcare is comparetively lower than many states in USA. So, these states are the perfect place to settle down for the middle or lower middle class family. People who come from Developing Country like Bangladesh, Pakistan, India, Nepal & others are always mostly prefer these states for higher studies, job or settle down.
 
 3.  Although Virginia has good air quality & modearate healthcare facilites, but this state is very tough to live at this moment(June 2023-August 2023). My model predicted the issue behind that. Here is the another source, that confirm my model accuracy:
 ```bash
@@ -36,7 +36,7 @@ Currently Virgia is leading a unhealthy air quality situation. With the moderate
 
 Althoguh California has the good air quality with no severe issues, due to poor heaalthcare system, this states has become extrmely tough to lead a healthy life. Even though Big IT industries, Corporate organization have their headquatars & main workforce having a high income, still messy healthcare system make their life too tough to live. They always have to spend lots of money to keep them healthy. 
 
-5. Delaware, New Jersey, Rhodes Island, Ohiho, Washington DC  are the worst places to settle down. Both Good Air Quality & Helthcare are below average. Although Rhodes Island has the great healthcare system, but you have to spend lots of money to keep yourself fit. Because, the healthcare system of Rhodes Island is known for massive charging in healthcare sectors. 
+5. New Jersey, Rhodes Island, Ohiho, Washington DC  are the worst places to settle down. Both Good Air Quality & Helthcare are below average. Although Rhodes Island has the great healthcare system, but you have to spend lots of money to keep yourself fit. Because, the healthcare system of Rhodes Island is known for massive charging in healthcare sectors. 
 
 6.  Like Hawaii, Pennsylvania is also another good place with costly healthcare system.
 
