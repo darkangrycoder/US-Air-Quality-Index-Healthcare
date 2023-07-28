@@ -34,7 +34,7 @@ https://www.accuweather.com/en/us/fairfax/22030/air-quality-index/336254
 ```
 Currently Virgia is leading a unhealthy air quality situation. With the moderate healthcare system, it's obvious to struggle to lead a healthy life. 
 
-Althoguh California has the good air quality with no severe issues, due to poor heaalthcare system, this states has become extrmely tough to lead a healthy life. Even though Big IT industries, Corporate organization have their headquatars & main workforce having a high income, still messy healthcare system make their life too tough to live. They always have to spend lots of money to keep them healthy. 
+4.  California has the wrost air quality & due to poor heaalthcare system, this states has become extrmely tough to lead a healthy life. Even though Big IT industries, Corporate organization have their headquatars & main workforce having a high income, still messy healthcare system make their life too tough to live. They always have to spend lots of money to keep them healthy. 
 
 5. New Jersey, Rhodes Island, Ohiho, Washington DC  are the worst places to settle down. Both Good Air Quality & Helthcare are below average. Although Rhodes Island has the great healthcare system, but you have to spend lots of money to keep yourself fit. Because, the healthcare system of Rhodes Island is known for massive charging in healthcare sectors. 
 
