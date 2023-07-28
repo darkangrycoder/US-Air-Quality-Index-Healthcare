@@ -1,0 +1,13 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import time
+'''Configure the web driver'''
+options = webdriver.ChromeOptions()
+
+options.add_experimental_option('excludeSwitches', ['enable-logging'])
+
+driver = webdriver.Chrome(
+    service= Service(C:/Users/Asus/Downloads/chormedriver), 
+    options=options,)
+# Navigate to the website
+driver.get("https://www.usnews.com/news/best-states/rankings/health-care")
