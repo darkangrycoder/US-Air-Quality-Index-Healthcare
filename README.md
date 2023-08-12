@@ -62,8 +62,9 @@ pip install -r requirements.txt
 4. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads 
 5. Run the scrapers
 ```bash
-There are multiple scraping files. Run as your requirements. Use both selenium & bs4. 
+python -u Healthcare_data_scraping-1.py 
 ```
+Notes: there are multiple files. Run it based on your required tasks. 
 # Data Visualization
 Outcome Factors vs Good Air Qualities:
 ```bash
